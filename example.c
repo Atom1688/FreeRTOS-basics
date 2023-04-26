@@ -1,6 +1,3 @@
-//Aluno: Rafael Bauer Sampaio
-//Curso: Ciencia da computacao | 7 periodo | noite
-
 #include "FreeRTOS.h"
 #include "task.h"
 #include "basic_io.h"
